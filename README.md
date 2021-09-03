@@ -64,7 +64,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | Azure Resource | Service Tier | Monthly Cost |
 | ------------ | ------------ | ------------ |
 | *Azure Postgres Database* | Basic    |  $32.39 CAD  |
-| *Azure Service Bus*   | Basis   |  US$0.05     |
+| *Azure Service Bus*   | Basic   |  US$0.05     |
 | ...                   |         |              |
 
 ## Architecture Explanation
